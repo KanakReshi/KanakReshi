@@ -29,14 +29,17 @@ Building web applications, exploring systems, and solving algorithmic problems.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kanakreshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=kanakreshi&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kanakreshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://streak-stats.demolab.com?user=kanakreshi&theme=tokyonight&hide_border=true"/>
 
 </p>
----
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanakreshi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+-------
 
 # 🧠 Competitive Programming
 
