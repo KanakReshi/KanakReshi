@@ -90,5 +90,8 @@ Building web applications, exploring systems, and solving algorithmic problems.
 </p>
 
 ---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kanakreshi&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 
