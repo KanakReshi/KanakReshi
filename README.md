@@ -29,11 +29,11 @@ Building web applications, exploring systems, and solving algorithmic problems.
 
 <p align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=kanakreshi&show_icons=true&theme=tokyonight&hide_border=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanakreshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanakreshi&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kanakreshi&theme=tokyonight&hide_border=true"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakreshi&layout=compact&theme=tokyonight&hide_border=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakreshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
