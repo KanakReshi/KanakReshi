@@ -91,6 +91,4 @@ Building web applications, exploring systems, and solving algorithmic problems.
 
 ---
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=kanakreshi&icon=0&color=0"/>
-</p>
+
