@@ -109,9 +109,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanakreshi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%"/>
+<!-- Stats card — uses anuraghazra's API with cache bust to avoid rate limiting -->
+<img src="https://github-readme-stats.vercel.app/api?username=kanakreshi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&cache_seconds=1800" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakreshi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%"/>
+<!-- Top languages via github-profile-summary-cards — more reliable alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanakreshi&theme=github_dark&hide_border=true" width="23%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanakreshi&theme=github_dark&hide_border=true" width="23%"/>
 
 </div>
 
