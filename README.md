@@ -110,14 +110,15 @@
 
 ## `> GITHUB_STATS --live`
 
-<!-- ROW 3 — three summary cards -->
+
+<!-- ROW 2 — streak centre stage -->
 <div align="center">
  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanakreshi&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanakreshi&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanakreshi&theme=github_dark" width="32%"/>
+<img src="https://streak-stats.demolab.com?user=kanakreshi&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&stroke=00ff4133&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
  
 </div>
+ 
+
  
 <!-- ROW 4 — productive hours + productive day -->
 <div align="center">
@@ -133,14 +134,6 @@
  
 </div>
  
-<!-- ROW 6 — trophy case -->
-<div align="center">
- 
-<img src="https://github-profile-trophy.vercel.app/?username=kanakreshi&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
- 
-</div>
- 
----
 
 ## `> COMPETITIVE_PROGRAMMING --profiles`
 
