@@ -21,15 +21,14 @@
 <!-- Terminal About Section -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-```bash
+```fish
 ┌──(kanak㉿world)-[~]
 └─$ whoami
 
   Name    : Kanak Reshi
   Role    : Web Developer + CP Grinder
   Focus   : React Ecosystem
-  OS      : Arch btw
-  Editor  : Neovim (obviously)
+  OS      : Ubuntu/Fedora
   Status  : [████████░░] 80% caffeinated
 
 ┌──(kanak㉿world)-[~]
