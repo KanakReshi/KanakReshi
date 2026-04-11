@@ -28,8 +28,7 @@
   Name    : Kanak Reshi
   Role    : Web Developer + CP Grinder
   Focus   : React Ecosystem
-  OS      : Arch btw
-  Editor  : Neovim (obviously)
+  OS      : Ubuntu/Fedora
   Status  : [████████░░] 80% caffeinated
 
 ┌──(kanak㉿world)-[~]
