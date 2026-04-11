@@ -21,14 +21,15 @@
 <!-- Terminal About Section -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-```fish
+```bash
 ┌──(kanak㉿world)-[~]
 └─$ whoami
 
   Name    : Kanak Reshi
   Role    : Web Developer + CP Grinder
   Focus   : React Ecosystem
-  OS      : Ubuntu/Fedora
+  OS      : Arch btw
+  Editor  : Neovim (obviously)
   Status  : [████████░░] 80% caffeinated
 
 ┌──(kanak㉿world)-[~]
@@ -108,12 +109,15 @@
 
 <div align="center">
 
-<!-- Stats card — uses anuraghazra's API with cache bust to avoid rate limiting -->
-<img src="https://github-readme-stats.vercel.app/api?username=kanakreshi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&cache_seconds=1800" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanakreshi&theme=github_dark" width="98%"/>
 
-<!-- Top languages via github-profile-summary-cards — more reliable alternative -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanakreshi&theme=github_dark&hide_border=true" width="23%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanakreshi&theme=github_dark&hide_border=true" width="23%"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanakreshi&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanakreshi&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanakreshi&theme=github_dark" width="32%"/>
 
 </div>
 
