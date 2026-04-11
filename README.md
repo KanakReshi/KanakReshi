@@ -109,52 +109,29 @@
 
 ## `> GITHUB_STATS --live`
 
-<!--  ROW 1 — contribution timeline full width -->
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanakreshi&theme=github_dark" width="100%"/>
-
-</div>
-
 <!-- ROW 2 — streak centre stage -->
 <div align="center">
-
+ 
 <img src="https://streak-stats.demolab.com?user=kanakreshi&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&stroke=00ff4133&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
-
+ 
 </div>
+ 
 
-<!-- ROW 3 — three summary cards -->
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanakreshi&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanakreshi&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanakreshi&theme=github_dark" width="32%"/>
-
-</div>
-
+ 
 <!-- ROW 4 — productive hours + productive day -->
 <div align="center">
-
+ 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanakreshi&theme=github_dark&utcOffset=5.5" width="49%"/>
-
+ 
 </div>
-
+ 
 <!-- ROW 5 — activity graph full width -->
 <div align="center">
-
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanakreshi&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true" width="100%"/>
-
+ 
 </div>
-
-<!-- ROW 6 — trophy case -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kanakreshi&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
-</div>
-
----
-
+ 
 ## `> COMPETITIVE_PROGRAMMING --profiles`
 
 <div align="center">
