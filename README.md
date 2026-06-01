@@ -63,36 +63,154 @@ const kanak = {
 
 <div align="center">
 
-**[ Languages ]**
+<h2>Tech Stack & Developer Tools</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3>Programming Languages</h3>
 
-**[ Frameworks & Libraries ]**
+<table align="center">
+<tr>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" alt="C++" />
+  <br /><b>C++</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" alt="C" />
+  <br /><b>C</b>
+</td>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" alt="JavaScript" />
+  <br /><b>JavaScript</b>
+</td>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" alt="Python" />
+  <br /><b>Python</b>
+</td>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" alt="Java" />
+  <br /><b>Java</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  <br /><b>HTML5</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  <br /><b>CSS3</b>
+</td>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" alt="TypeScript" />
+  <br /><b>TypeScript</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
+  <br /><b>SQL</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50" alt="R" />
+  <br /><b>R</b>
+</td>
+</tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+<h3>Frameworks & Libraries</h3>
 
-**[ Database & Tools ]**
+<table align="center">
+<tr>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" alt="React" />
+  <br /><b>React</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js" />
+  <br /><b>Next.js</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" />
+  <br /><b>Node.js</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" alt="Express.js" />
+  <br /><b>Express.js</b>
+</td>
+<td align="center" width="120">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" alt="Tailwind CSS" />
+  <br /><b>Tailwind CSS</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" alt="Vite" />
+  <br /><b>Vite</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
+  <br /><b>MongoDB</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" alt="NumPy" />
+  <br /><b>NumPy</b>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" alt="Framer Motion" />
+  <br /><b>Framer Motion</b>
+</td>
+<td align="center" width="120">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" alt="Firebase" />
+  <br /><b>Firebase</b>
+</td>
+</tr>
+</table>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<h3>Development Tools</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" alt="Bash" />
+  <br /><b>Bash</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" alt="Linux" />
+  <br /><b>Linux</b>
+</td>
+<td align="center" width="120">
+  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="48" alt="Vim" />
+  <br /><b>Vim</b>
+</td>
+<td align="center" width="120">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" alt="VS Code" />
+  <br /><b>VS Code</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" alt="Git" />
+  <br /><b>Git</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub" />
+  <br /><b>GitHub</b>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" alt="Postman" />
+  <br /><b>Postman</b>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ" />
+  <br /><b>IntelliJ</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" alt="Figma" />
+  <br /><b>Figma</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" width="48" alt="Prettier" />
+  <br /><b>Prettier</b>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -352,7 +470,4 @@ $ ssh kanak@internet --via github
 │  > exit code: 0                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=00FF41&height=85&section=footer" alt="Footer" />
-
 </div>
