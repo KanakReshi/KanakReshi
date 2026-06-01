@@ -82,10 +82,6 @@ const kanak = {
   <br /><b>JavaScript</b>
 </td>
 <td align="center" width="120">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" alt="Python" />
-  <br /><b>Python</b>
-</td>
-<td align="center" width="120">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" alt="Java" />
   <br /><b>Java</b>
 </td>
@@ -98,14 +94,6 @@ const kanak = {
 <td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
   <br /><b>CSS3</b>
-</td>
-<td align="center" width="120">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" alt="TypeScript" />
-  <br /><b>TypeScript</b>
-</td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
-  <br /><b>SQL</b>
 </td>
 <td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50" alt="R" />
@@ -148,14 +136,7 @@ const kanak = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
   <br /><b>MongoDB</b>
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" alt="NumPy" />
-  <br /><b>NumPy</b>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" alt="Framer Motion" />
-  <br /><b>Framer Motion</b>
-</td>
+
 <td align="center" width="120">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" alt="Firebase" />
   <br /><b>Firebase</b>
@@ -192,10 +173,6 @@ const kanak = {
 <td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub" />
   <br /><b>GitHub</b>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" alt="Postman" />
-  <br /><b>Postman</b>
 </td>
 <td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ" />
