@@ -95,10 +95,6 @@ const kanak = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
   <br /><b>CSS3</b>
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50" alt="R" />
-  <br /><b>R</b>
-</td>
 </tr>
 </table>
 
